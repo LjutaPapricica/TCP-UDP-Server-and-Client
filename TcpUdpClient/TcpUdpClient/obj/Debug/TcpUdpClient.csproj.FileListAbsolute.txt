@@ -1,0 +1,6 @@
+C:\Users\Friso\Desktop\TcpUdpClient\TcpUdpClient\bin\Debug\TcpUdpClient.exe.config
+C:\Users\Friso\Desktop\TcpUdpClient\TcpUdpClient\bin\Debug\TcpUdpClient.exe
+C:\Users\Friso\Desktop\TcpUdpClient\TcpUdpClient\bin\Debug\TcpUdpClient.pdb
+C:\Users\Friso\Desktop\TcpUdpClient\TcpUdpClient\obj\Debug\TcpUdpClient.exe
+C:\Users\Friso\Desktop\TcpUdpClient\TcpUdpClient\obj\Debug\TcpUdpClient.pdb
+C:\Users\Friso\Desktop\TcpUdpClient\TcpUdpClient\obj\Debug\TcpUdpClient.csprojResolveAssemblyReference.cache
