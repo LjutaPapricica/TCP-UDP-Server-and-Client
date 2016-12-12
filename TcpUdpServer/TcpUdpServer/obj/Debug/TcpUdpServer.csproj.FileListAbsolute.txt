@@ -1,6 +1,0 @@
-C:\Users\Friso\Desktop\TcpUdpServer\TcpUdpServer\bin\Debug\TcpUdpServer.exe.config
-C:\Users\Friso\Desktop\TcpUdpServer\TcpUdpServer\bin\Debug\TcpUdpServer.exe
-C:\Users\Friso\Desktop\TcpUdpServer\TcpUdpServer\bin\Debug\TcpUdpServer.pdb
-C:\Users\Friso\Desktop\TcpUdpServer\TcpUdpServer\obj\Debug\TcpUdpServer.exe
-C:\Users\Friso\Desktop\TcpUdpServer\TcpUdpServer\obj\Debug\TcpUdpServer.pdb
-C:\Users\Friso\Desktop\TcpUdpServer\TcpUdpServer\obj\Debug\TcpUdpServer.csprojResolveAssemblyReference.cache
