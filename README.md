@@ -1,1 +1,1 @@
-# TCP-UDP-Server-and-Client
+# Simple client and server app for sending packages over UDP and TCP
